@@ -7,8 +7,7 @@ A gallery to showcase the works of the photographer James Meyers, specifically h
 
 ## How It's Made:
 
-**Tech used:** <br>
-HTML, CSS, JS
+**Tech used:** HTML, CSS, JS
 
 
 
